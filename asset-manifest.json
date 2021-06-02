@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/topinflu/static/css/main.bfa22019.chunk.css",
+    "main.js": "/topinflu/static/js/main.6ad3b8be.chunk.js",
+    "main.js.map": "/topinflu/static/js/main.6ad3b8be.chunk.js.map",
+    "runtime-main.js": "/topinflu/static/js/runtime-main.7343ce82.js",
+    "runtime-main.js.map": "/topinflu/static/js/runtime-main.7343ce82.js.map",
+    "static/js/2.284d85a7.chunk.js": "/topinflu/static/js/2.284d85a7.chunk.js",
+    "static/js/2.284d85a7.chunk.js.map": "/topinflu/static/js/2.284d85a7.chunk.js.map",
+    "static/js/3.7580b9f9.chunk.js": "/topinflu/static/js/3.7580b9f9.chunk.js",
+    "static/js/3.7580b9f9.chunk.js.map": "/topinflu/static/js/3.7580b9f9.chunk.js.map",
+    "index.html": "/topinflu/index.html",
+    "static/css/main.bfa22019.chunk.css.map": "/topinflu/static/css/main.bfa22019.chunk.css.map",
+    "static/js/2.284d85a7.chunk.js.LICENSE.txt": "/topinflu/static/js/2.284d85a7.chunk.js.LICENSE.txt",
+    "static/media/topinflu.b733c348.png": "/topinflu/static/media/topinflu.b733c348.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7343ce82.js",
+    "static/js/2.284d85a7.chunk.js",
+    "static/css/main.bfa22019.chunk.css",
+    "static/js/main.6ad3b8be.chunk.js"
+  ]
+}
