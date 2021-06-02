@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/topinflu/static/css/main.bfa22019.chunk.css",
-    "main.js": "/topinflu/static/js/main.d3cd92f1.chunk.js",
-    "main.js.map": "/topinflu/static/js/main.d3cd92f1.chunk.js.map",
+    "main.js": "/topinflu/static/js/main.cfa73161.chunk.js",
+    "main.js.map": "/topinflu/static/js/main.cfa73161.chunk.js.map",
     "runtime-main.js": "/topinflu/static/js/runtime-main.a47b2044.js",
     "runtime-main.js.map": "/topinflu/static/js/runtime-main.a47b2044.js.map",
     "static/js/2.01791f48.chunk.js": "/topinflu/static/js/2.01791f48.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.a47b2044.js",
     "static/js/2.01791f48.chunk.js",
     "static/css/main.bfa22019.chunk.css",
-    "static/js/main.d3cd92f1.chunk.js"
+    "static/js/main.cfa73161.chunk.js"
   ]
 }
